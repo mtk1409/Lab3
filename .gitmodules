@@ -1,0 +1,6 @@
+[submodule "Lab-2"]
+	path = Lab-2
+	url = https://github.com/mtk1409/Lab-2.git
+[submodule "Lab2"]
+	path = Lab2
+	url = https://github.com/mtk1409/Lab2.git
